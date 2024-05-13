@@ -1,0 +1,20 @@
+.related-products h1 {
+    color: #171717;
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+    
+
+}
+
+
+
+.related-products-item {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center; 
+    gap: 30px;
+    margin-bottom: 300PX;
+
+}
